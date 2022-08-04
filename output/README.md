@@ -1,16 +1,12 @@
-# Test
+# Professional README Generator
 
   ## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
-  The MIT License
-    License Copyright: Unknown.
-    License License: Unknown.
-    License Contact: Unknown.
-    
-    SPDX short identifier: MIT
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)<br>
+  Mozilla Public License 2.0 (MPL-2.0)
+    Further resources on Mozilla Public License 2.0 (MPL-2.0)
 
   ## Description
-  Test
+  A command-line application that dynamically creates a professional README.md file
 
   ## Table of Contents
   - [Installation](#installation)
@@ -21,17 +17,18 @@
   - [Questions](#questions)
   
   ## Installation
-  Test
+  Create a .gitignore file and include: node_modules/, .DS_Store/ and package-lock.json. Initialize the npm project by entering 'npm init -y' in the command line. Install Inquirer by entering 'npm i inquirer@8.2.4' in the command line. Invoke the application by entering the following command: node index.js
   
   ## Usage
-  Test
+  Follow this link for the walkthrough video of the application demonstration
   
   ## Contributing
-  Test
+  Starter code provided by Xander Rapstine and Grace Choi with coding-boot-camp. Refactored code provided by ezaiger.
 
   ## Tests
-  Test
+  N/A
 
   ## Questions
-  <a href="https://github.com/">My GitHub Profile</a><br>
-  If you have additional questions, you can reach me via<a href="mailto:">email</a>
+  <a href="https://github.com/ezaiger">My GitHub Profile</a><br>
+  If you have additional questions, you can reach me via <a href="mailto:elisabeth.zaiger@gmail.com">email</a>
+  
