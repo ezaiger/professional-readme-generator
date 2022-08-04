@@ -28,7 +28,28 @@ function renderLicenseSection(license) {
     
     THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS IBM PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.`
   }
-  
+  if(license === "MIT") {
+    return `The MIT License
+    License Copyright: Unknown.
+    License License: Unknown.
+    License Contact: Unknown.
+    
+    SPDX short identifier: MIT`
+  }
+  if(license === "Mozilla") {
+    return `Mozilla Public License 2.0 (MPL-2.0)
+    Further resources on Mozilla Public License 2.0 (MPL-2.0)`
+  }
+  if(license === "Apache") {
+    return `Apache License, Version 2.0
+    SPDX short identifier: Apache-2.0
+    Further resources on the Apache License, Version 2.0
+    
+    Apache License
+    Version 2.0, January 2004
+    http://www.apache.org/licenses/
+    `
+  }
 }
 
 // TODO: Create a function to generate markdown for README
@@ -63,9 +84,9 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  <a href="https://github.com/${data.username}">My GitHub</a><br>
-  <a href="mailto:${data.email}">My Email</a>
-`;
-}
+  <a href="https://github.com/${data.username}">My GitHub Profile</a><br>
+  If you have additional questions, you can reach me via <a href="mailto:${data.email}">email</a>
+  `
+};
 
 module.exports = generateMarkdown;

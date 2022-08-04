@@ -1,14 +1,16 @@
-# test
+# Test
 
   ## License
-  [![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)<br>
-  IBM Public License Version 1.0 (IPL-1.0)
-    View Summary of IBM Public License 1.0 (IPL) on TLDRLegal » (Disclaimer)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
+  The MIT License
+    License Copyright: Unknown.
+    License License: Unknown.
+    License Contact: Unknown.
     
-    THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS IBM PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+    SPDX short identifier: MIT
 
   ## Description
-  .
+  Test
 
   ## Table of Contents
   - [Installation](#installation)
@@ -19,17 +21,17 @@
   - [Questions](#questions)
   
   ## Installation
-  .
+  Test
   
   ## Usage
-  .
+  Test
   
   ## Contributing
-  .
+  Test
 
   ## Tests
-  .
+  Test
 
   ## Questions
-  <a href="https://github.com/ezaiger">My GitHub</a><br>
-  <a href="mailto:elisabeth.zaiger@gmail.com">My Email</a>
+  <a href="https://github.com/">My GitHub Profile</a><br>
+  If you have additional questions, you can reach me via<a href="mailto:">email</a>
